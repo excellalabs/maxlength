@@ -1,0 +1,19 @@
+{
+  "name": "jquery-maxlength",
+  "version": "2.0.1",
+  "description": "A jQuery plugin that applies a maximum length to a textarea.",
+  "main": "jquery.maxlength.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/excellalabs/maxlength.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/excellalabs/maxlength/issues"
+  },
+  "homepage": "https://github.com/excellalabs/maxlength#readme"
+}
